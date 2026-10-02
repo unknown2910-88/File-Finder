@@ -3,7 +3,7 @@
 
 # ===== KONFIGURATION =====
 # Bitte den Quellordner hier eintragen (z.B. "C:\Meine_Dateien")
-$Quellordner = "<PFAD_EINTRAGEN>"
+$Quellordner = "Z:\Gemeinsam\FÜR DATEV\Eingangsrechnungen\2026\Hochgeladen"
 
 # Stichtag für die Dateifilterung (ab diesem Datum)
 $Stichtag = Get-Date -Year 2026 -Month 9 -Day 15 -Hour 0 -Minute 0 -Second 0
